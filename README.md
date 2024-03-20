@@ -1,7 +1,11 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ricardo+Moran!;" />
+</h1>
 <h1 align="center">Hi 👋, I'm Ricardo Moran</h1>
 <h3 align="center">AI developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ai4ric" alt="ai4ric" /></a> </p>
 
 - 🔭 I’m currently working on [aicataloguer mobile app](https://github.com/AI4Ric/aicataloguerapp)
 
